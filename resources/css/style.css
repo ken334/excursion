@@ -8,6 +8,10 @@ body {
   font-family: Verdana, sans-serif;
 }
 
+header {
+  margin-bottom: 2rem;
+}
+
 h1 {
   font-size: 3.125rem;
   color: white;
@@ -17,6 +21,10 @@ a {
   font-size: 1 rem;
   color: aquamarine;
   text-decoration: underline;
+}
+
+img {
+  margin-top:2rem;
 }
 
 h2 {
