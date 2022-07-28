@@ -1,0 +1,35 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-size: 3.125rem;
+  color: white;
+}
+
+a {
+  font-size: 1 rem;
+  color: aquamarine;
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 2.625rem;
+  color: white;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 1.3125rem;
+  color: gray;
+}
+
+span {
+  text-align: right;
+}
